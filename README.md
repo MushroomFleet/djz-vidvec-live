@@ -2,7 +2,7 @@
 
 Real-time browser-based motion vector visualisation. Captures live webcam input and renders directional vector lines on a pure black canvas using optical flow algorithms — all running entirely in the browser via OpenCV.js WASM.
 
-**[Try the Live Demo](#)** (coming soon)
+**[Try the Live Demo](https://scuffedepoch.com/vidvec-live/)**
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
